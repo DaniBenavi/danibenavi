@@ -3,8 +3,8 @@
 
 - 👨‍💻 Soy Lic. en ciencias de la computación, tengo experiencia en desarrollo web (Html, Css, JavaScript, MySql, GitHub), desarrollo de aplicaciones de escritorio con C#, tambien Tengo conocimientos en Node.Js y PostgreSql, RestFulApi y mas.
 
-- 🔭 Actualmente estoy trabajando en projectos personales **ProjectsBackend**
--  🌱 También estoy aprendiendo y mejorando en tecnologías como: **React, NOdejs, TailwindCss y algun otro mas**
+- 🔭 Actualmente estoy trabajando en proyectos personales para mejorar mis habilidades aprendidas.
+-  🌱 También estoy aprendiendo y mejorando en tecnologías como: **React, Nodejs, TailwindCss y algun otro mas**
 - 👨‍💻 Visita mi PortFolio: <a href="https://portfolio-danidev.vercel.app" target="_blank">Danidev.com</a>
 
 <h3 align="left">Connect with me:</h3>
