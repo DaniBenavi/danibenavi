@@ -1,141 +1,85 @@
-<h1 align="center">Hi 👋, I'm Daniel Benavides</h1>
-<h3 align="center">A passionate Backend developer from El Salvador</h3>
+<h1 align="center">Daniel Benavides</h1>
+<h3 align="center">Backend developer · El Salvador &nbsp;|&nbsp; Laravel · Node.js · SQL · REST APIs</h3>
 
-- 👨‍💻 Soy Lic. en ciencias de la computación, tengo experiencia en desarrollo web (Html, Css, JavaScript, MySql, GitHub), desarrollo de aplicaciones de escritorio con C#, tambien Tengo conocimientos en Node.Js y PostgreSql, RestFulApi y mas.
-
-- 🔭 Actualmente estoy trabajando en proyectos personales para mejorar mis habilidades aprendidas.
--  🌱 También estoy aprendiendo y mejorando en tecnologías como: **React, Nodejs, TailwindCss y algun otro mas**
-- 👨‍💻 Visita mi PortFolio: <a href="https://portfolio-danidev.vercel.app" target="_blank">Danidev.com</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="start">
-  <a href="mailto:danibenavi1907@gmail.com" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/-Danidev.com-D14836?style=flat&logo=Gmail&logoColor=white"
-      alt="danibenavi1907@gmail.com"
-      height="30"
-      width="auto"
-  /></a>
-  <a href="https://www.linkedin.com/in/danibenavi" target="_blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"
-      height="30"
-      width="auto"
-  /></a>
+<p align="center">
+  <a href="mailto:danibenavi1907@gmail.com">
+    <img src="https://img.shields.io/badge/-danibenavi1907@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/danibenavi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-danidev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-222?style=flat&logo=vercel&logoColor=white" height="28" />
+  </a>
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left" style="display: block; align-content: center; padding: 6px">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="80"
-      height="80"
-    />
-  </a>
+---
+
+### Sobre mí
+
+Desarrollador backend con experiencia en diseño de **APIs RESTful**, bases de datos relacionales y desarrollo de aplicaciones de escritorio con C#/.NET. Actualmente consolidando mis habilidades en React y Tailwind CSS para complementar el stack con frontend moderno.
+
+- 🎓 Lic. en Ciencias de la Computación
+- 🔭 Trabajando en proyectos personales para fortalecer habilidades full-stack
+- 🌱 Aprendiendo y mejorando en: **React · Tailwind CSS · TypeScript**
+- 💼 Portafolio: [portfolio-danidev.vercel.app](https://portfolio-danidev.vercel.app)
+
+---
+
+### Habilidades
+
+**Backend & bases de datos**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [Tienda Don Ramiro POS](https://github.com/TU_USERNAME) | Sistema de punto de venta con gestión de inventario, ventas, reportes de utilidad y emisión de comprobantes | Laravel · React · MariaDB · Tailwind CSS |
+| [Tu próximo proyecto](#) | Descripción breve del proyecto | Stack utilizado |
+
+> 💡 **Tip:** reemplaza los links con las URLs reales de tus repositorios.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Abierto a nuevas oportunidades y colaboraciones 🚀</sub>
 </p>
