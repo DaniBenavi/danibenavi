@@ -64,21 +64,8 @@ Desarrollador backend con experiencia en diseño de **APIs RESTful**, bases de d
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [Tienda Don Ramiro POS](https://github.com/TU_USERNAME) | Sistema de punto de venta con gestión de inventario, ventas, reportes de utilidad y emisión de comprobantes | Laravel · React · MariaDB · Tailwind CSS |
-| [Tu próximo proyecto](#) | Descripción breve del proyecto | Stack utilizado |
-
-> 💡 **Tip:** reemplaza los links con las URLs reales de tus repositorios.
-
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
-
----
 
 <p align="center">
   <sub>Abierto a nuevas oportunidades y colaboraciones 🚀</sub>
