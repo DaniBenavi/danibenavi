@@ -80,10 +80,10 @@ Desarrollador backend enfocado en construir **APIs RESTful** robustas, modelar b
 <table align="center">
   <tr>
     <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DaniBenavi&show_icons=true&theme=default&hide_border=true&count_private=true" />
+      ![Stats](./profile/stats.svg)
     </td>
     <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniBenavi&layout=compact&hide_border=true" />
+      ![Top Languages](./profile/top-langs.svg)
     </td>
   </tr>
 </table>
