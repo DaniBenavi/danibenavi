@@ -1,5 +1,6 @@
 <h1 align="center">Daniel Benavides</h1>
-<h3 align="center">Backend developer · El Salvador &nbsp;|&nbsp; Laravel · Node.js · SQL · REST APIs</h3>
+<h3 align="center">Backend Developer · El Salvador</h3>
+<p align="center">Laravel · Node.js · Express · SQL · REST APIs</p>
 
 <p align="center">
   <a href="mailto:danibenavi1907@gmail.com">
@@ -15,57 +16,79 @@
   </a>
 </p>
 
----
-
-### Sobre mí
-
-Desarrollador backend con experiencia en diseño de **APIs RESTful**, bases de datos relacionales y desarrollo de aplicaciones de escritorio con C#/.NET. Actualmente consolidando mis habilidades en React y Tailwind CSS para complementar el stack con frontend moderno.
-
-- 🎓 Lic. en Ciencias de la Computación
-- 🔭 Trabajando en proyectos personales para fortalecer habilidades full-stack
-- 🌱 Aprendiendo y mejorando en: **React · Tailwind CSS · TypeScript**
-- 💼 Portafolio: [portfolio-danidev.vercel.app](https://portfolio-danidev.vercel.app)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaniBenavi&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
+</p>
 
 ---
 
-### Habilidades
+### 🧠 Sobre mí
 
-**Backend & bases de datos**
+Desarrollador backend enfocado en construir **APIs RESTful** robustas, modelar bases de datos relacionales y diseñar la lógica de negocio detrás de sistemas reales. Sé llevar un proyecto desde el diseño de la base de datos hasta un backend documentado y listo para producción, integrando frontend cuando el proyecto lo requiere.
 
+- 🏗️ Diseño de APIs REST con autenticación, control de permisos y documentación (Swagger/OpenAPI)
+- 🗄️ Modelado y optimización de bases de datos relacionales (MySQL, PostgreSQL, MariaDB, SQL Server)
+- 🔐 Implementación de control de acceso basado en roles y permisos
+- 🚀 Despliegue de servicios backend en entornos de producción (VPS, Railway, Render)
+- 🎨 Frontend complementario con React, Tailwind CSS y Astro cuando el proyecto lo pide
+
+---
+
+### 🛠️ Stack técnico
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Bases de datos**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-**Frontend**
+**APIs & documentación**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Frontend complementario**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 
-**Herramientas**
+**Herramientas & despliegue**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
-### Proyectos destacados
+### 📊 Estadísticas
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [Tienda Don Ramiro POS](https://github.com/TU_USERNAME) | Sistema de punto de venta con gestión de inventario, ventas, reportes de utilidad y emisión de comprobantes | Laravel · React · MariaDB · Tailwind CSS |
+<table align="center">
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DaniBenavi&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniBenavi&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 ---
-
 
 <p align="center">
   <sub>Abierto a nuevas oportunidades y colaboraciones 🚀</sub>
