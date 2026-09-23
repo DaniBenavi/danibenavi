@@ -77,18 +77,10 @@ Desarrollador backend enfocado en construir **APIs RESTful** robustas, modelar b
 
 ### 📊 Estadísticas
 
-<table align="center">
-  <tr>
-    <td>
-      ![Stats](./profile/stats.svg)
-    </td>
-    <td>
-      ![Top Languages](./profile/top-langs.svg)
-    </td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
 
 <p align="center">
   <sub>Abierto a nuevas oportunidades y colaboraciones 🚀</sub>
